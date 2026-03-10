@@ -1,0 +1,4 @@
+langchain
+langchain-google-genai
+langchain-mcp-adapters
+mcp
